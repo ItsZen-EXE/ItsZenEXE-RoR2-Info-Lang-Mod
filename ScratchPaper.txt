@@ -1,0 +1,40 @@
+<style=cKeywordName>[Results In Brackets and Bold White Text]
+<style=cIsHealing>This is Green Text
+<style=cIsHealth>This is Red Text
+<style=cStack>Stacking grey small text
+<style=cIsDamage>This is Yellowish-Orange Text, like the money
+<style=cIsUtility>This is Light Blue Text
+<style=cSub>Subtitle text for Keyword names<i>with indents too</i></style>
+<style=cWorldEvent>This Is changing text (used for introducing events in-game)
+<style=cDeath>Dark Red Text
+<style=cIsVoid>Void Item Corruption Text
+<style=cArtifact>Dark Purple Text
+<style=cMono>Dark grey logbook long spaced text
+
+\n\n<style=cKeywordName>Stacking Info</style>
+<style=cSub><style=cStack>5 Stacks</style> = <style=cIsUtility>8.857 Seconds</style>
+\n<style=cStack>10 Stacks</style> = <style=cIsUtility>5.230 Seconds</style>
+\n<style=cStack>25 Stacks</style> = <style=cIsUtility>1.077 Seconds</style>
+\n<i>The above assumes a Proc Coefficient of 1.0 triggers the event.</i></style>
+
+\n\n<style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>25 Stacks</style> result in <style=cIsUtility>100%</style> chance to drop gold\n<i>The above assumes a Proc Coefficient of 1.0 triggers the event.</i></style>
+
+<style=cIsUtility>100%</style>
+
+\n\n<style=cKeywordName><style=cIsDamage>Proc Coefficient</style> Effects</style><style=cSub><style=cIsDamage>Proc Coefficient</style> changes the chance to activate this item on hit.\n<i>For example, a Proc Coefficient of <style=cIsUtility>0.5</style> turns <style=cIsDamage>5% Chance</style> into <style=cIsDamage>2.5% Chance</style>.</i></style>
+
+\n\n<style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>3 Stacks</style> = <style=cIsUtility>63.9%</style>\n<style=cStack>5 Stacks</style> = <style=cIsUtility>73.9%</style>\n<style=cStack>10 Stacks</style> = <style=cIsUtility>88.4%</style>\n<i>Include Fuel Cells in stacking count.</i></style>",
+
+\n\n<style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>5 Stacks</style> = <style=cIsUtility>8.857 Seconds</style>\n<style=cStack>10 Stacks</style> = <style=cIsUtility>5.230 Seconds</style>\n<style=cStack>25 Stacks</style> = <style=cIsUtility>1.077 Seconds</style>\n<i>The minimum cooldown is 1 frame, achieved with at least <style=cStack>65 stacks</style>.</i></style>
+
+
+# Items
+Stun Grenade:
+5 = 20%
+10 = 33.3%
+20 = 50%
+
+Tougher Times:
+5= 42.9%
+20 = 75%
+40 = 85.7%
