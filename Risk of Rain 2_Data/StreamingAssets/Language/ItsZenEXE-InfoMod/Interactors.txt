@@ -4,9 +4,9 @@
 	//[INTERACTABLES],
 	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Exit Escape Pod",
 	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Open Panel",
-	"TELEPORTER_NAME": "Teleporter",
-	"TELEPORTER_BEGIN_CONTEXT": "Activate Teleporter..?",
-	"TELEPORTER_END_CONTEXT": "Enter Teleporter",
+	"TELEPORTER_NAME": "<style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
+	"TELEPORTER_BEGIN_CONTEXT": "Activate <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>..?",
+	"TELEPORTER_END_CONTEXT": "Enter <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
 
 	"BARREL1_NAME": "Barrel",
 	"BARREL1_CONTEXT": "Open Barrel",
