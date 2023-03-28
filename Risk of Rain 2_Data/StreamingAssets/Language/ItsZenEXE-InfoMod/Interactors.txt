@@ -255,10 +255,10 @@
 	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
 	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Submit Formula",
 
-	"LUNAR_TELEPORTER_NAME": "Primordial Teleporter",
+	"LUNAR_TELEPORTER_NAME": "<style=cIsLunar>Primordial Teleporter <sprite name=\"TP\" tint=1></style>",
 	"LUNAR_TELEPORTER_SHIFT" : "Shift Destination",
-	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Activate Primordial Teleporter..?",
-	"LUNAR_TELEPORTER_END_CONTEXT": "Enter Primordial Teleporter",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "<style=cIsLunar>Activate Primordial Teleporter <sprite name=\"TP\" tint=1>..?</style>",
+	"LUNAR_TELEPORTER_END_CONTEXT": "<style=cIsLunar>Enter Primordial Teleporter <sprite name=\"TP\" tint=1></style>",
 
 	"SCRAPPER_NAME" : "Scrapper",
 	"SCRAPPER_CONTEXT" : "Scrap Items",
