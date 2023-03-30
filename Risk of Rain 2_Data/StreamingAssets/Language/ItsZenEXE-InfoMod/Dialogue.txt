@@ -55,7 +55,7 @@
 
 		"BROTHERHURT_DEATH_1": "NO... NOT NOW...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix has lost his kingdom. <sprite name=\"Skull\" tint=1></size></style>",
 		"BROTHERHURT_DEATH_2": "WHY... WHY NOW...?\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The war finally ends. <sprite name=\"Skull\" tint=1></size></style>",
-		"BROTHERHURT_DEATH_3": "NO... NO...!\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The last defender is removed. The void smiles. <sprite name=\"Skull\" tint=1></size></style>",
+		"BROTHERHURT_DEATH_3": "NO... NO...!\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> 『DESTRUCTION. SECURE. VALUABLE DATA. SAVE.】 <sprite name=\"Skull\" tint=1></size></style>",
 		"BROTHERHURT_DEATH_4": "BROTHER... HELP ME...!\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix' cries reach out, nobody there to respond. <sprite name=\"Skull\" tint=1></size></style>",
 		"BROTHERHURT_DEATH_5": "THIS PLANE GROWS DARK... BROTHER... I CANNOT SEE YOU... WHERE ARE YOU...?\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix searches for his family, to no avail. <sprite name=\"Skull\" tint=1></size></style>",
 		"BROTHERHURT_DEATH_6": "BROTHER... PERHAPS... WE WILL GET IT RIGHT... NEXT TIME...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix stares into the well, dreaming of worms. <sprite name=\"Skull\" tint=1></size></style>",
