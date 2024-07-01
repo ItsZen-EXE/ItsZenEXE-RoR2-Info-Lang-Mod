@@ -333,8 +333,8 @@
 	"VOIDSURVIVOR_PASSIVE_DESCRIPTION" : "At full <style=cIsVoid>Corruption</style>, transform your abilities into more aggressive forms, and gain <style=cIsUtility>100 armor</style>.",
 	  
 	"VOIDSURVIVOR_PRIMARY_NAME" : "【D??row?n」",
-	"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Fire a <style=cIsUtility>slowing</style> long-range beam for <style=cIsDamage>300% damage</style>.\n<style=cKeywordName>(Proc: 1)</style>",
-	"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a 2000% damage short-range beam.</style> Number of damage ticks scale with attack speed.\n<style=cKeywordName>(Proc: 0.6/hit)</style>",
+	"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Fire a <style=cIsUtility>slowing</style> long-range beam for <style=cIsDamage>300% damage</style>.\n<style=cKeywordName>(Proc: 1) (Corruption Proc: 0.625/hit)</style>",
+	"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a 2000% damage short-range beam.</style> Number of damage ticks scale with attack speed.\n<style=cKeywordName>(Proc: 0.625/hit)</style>",
   
 	"VOIDSURVIVOR_SECONDARY_NAME" : "『Floo?d」",
 	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Fire a plasma bolt for <style=cIsDamage>600% damage</style>. Fully charge it for an explosive plasma ball instead, dealing <style=cIsDamage>1100% damage</style>.\n<style=cKeywordName>(Proc: 1) (Cooldown: 4s)</style>",
