@@ -1,6 +1,6 @@
 # ItsZenEXE-Info-mod
 
-You can download the files on the [Releases page!](https://github.com/Zezombye/overpy)
+You can download the files on the [Releases page!](https://github.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/releases)
 
 On Steam, open the game's properties then under "Local Files" press "Browse..."
 
