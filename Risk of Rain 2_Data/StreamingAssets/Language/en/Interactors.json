@@ -170,8 +170,8 @@
 	
 	"SHRINE_BLOOD_NAME": "Shrine of Blood",
 	"SHRINE_BLOOD_CONTEXT": "Offer to Shrine of Blood",
-	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You feel a searing pain. You have gained {1} gold.</color>",
-	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} feels a searing pain, and has gained {1} gold.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine><style=cDeath>You feel a searing pain.<style=cShrine>You have gained {1} gold.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine><style=cDeath>{0} feels a searing pain,<style=cShrine>and has gained {1} gold.</color>",
 	"SHRINE_BLOOD_DESCRIPTION": "When activated by a survivor the Shrine of Blood consumes a percentage of the survivors health in exchange for gold equal to half the amount of HP taken.",
 	"SHRINE_BLOOD_LORE": "LORE HERE",
 
