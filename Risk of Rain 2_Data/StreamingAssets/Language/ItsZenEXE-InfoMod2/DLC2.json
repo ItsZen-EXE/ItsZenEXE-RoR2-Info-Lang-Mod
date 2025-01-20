@@ -88,7 +88,7 @@
 
 		"MAP_VILLAGE_TITLE": "Shattered Abodes",
 		"MAP_VILLAGE_SUBTITLE": "Ground Zero",
-		"MAP_VILLAGE_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n#Reading image for text... done.\nTranscribing data... done.\nTranslating text... done. [1 exception raised]\nComplete: outputting results.</style>\n\nTell us [world below] of the storms above,\nHow worms ride the skies to save,\nthat faith is shown in the flash of\nlightning and heresy cowers in cave.\n\nHide from us [hated moon]!\nOur hands bring forth beauty,\nchildren sing of the storm\u2019s bright light,\ndefeated enemy shrinks away bloody!\n\nTribute is given to [him] who saves,\nGolden gifts from the [world below]\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
+		"MAP_VILLAGE_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n#Reading image for text... done.\nTranscribing data... done.\nTranslating text... done. [1 exception raised]\nComplete: outputting results.</style>\n\nTell us [world below] of the storms above,\nHow wurms ride the skies to save,\nthat faith is shown in the flash of\nlightning and heresy cowers in cave.\n\nHide from us [hated moon]!\nOur hands bring forth beauty,\nchildren sing of the storm\u2019s bright light,\ndefeated enemy shrinks away bloody!\n\nTribute is given to [him] who saves,\nGolden gifts from the [world below]\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
 
 		"MAP_VILLAGENIGHT_TITLE": "Disturbed Impact",
 		"MAP_VILLAGENIGHT_SUBTITLE": "Meter of the Restless",
@@ -96,7 +96,7 @@
 
 		"MAP_HABITATFALL_TITLE": "Golden Dieback",
 		"MAP_HABITATFALL_SUBTITLE": "March of the Fallen",
-		"MAP_HABITATFALL_LORE": "> Automated report 9f6d5d41671c241h13b2339e42mf23deb9 is now available from site record 741c655e2d36c5f6973fd3a36aa0f950.\n> Please refer to record 741c655e2d36c5f6973fd3a36aa0f950 for additional personnel details during your review.\n> Report Type: Transcription\n> - Source : 741c655e2d36c5f6973fd3a36aa0f950 (Personal Suit Recorder)\n> Priority: High\n> Foreign language detected.\n> Operating Machine-generated Transcription > base Vernacular Profile \"Alloy Vulture.\"\n$ Cleaning audio... done.\n$ Asserting translation... error.\n> Several errors detected. Audio generated with error in translation contained.\n> Text-to-speech enabled for foreign elements.\n> Machine-generated Transcription Complete!\n> Report Content:\n\n-- Beginning of Excerpt Flagged for Review --\n\nEmil: \"W-where am I? What\u2019s holding me? Wh-\"\n\nTranslated: \"Stop struggling invader. Your purpose is not realized.\"\n\nEmil: \"Purpose? Flying? What the- Vulture? Put me down put me down put me- AHHHHHH.\"\n\nTranslated: \"Beetles. Listen to your Queen!\"\n\nEmil: \"My legs! I can\u2019t feel my legs! Dropped from the [REDACTED] sky, [REDACTED]!\"\n\nTranslated: \"Do we not watch the great [Colossus]? Do we not serve the wishes of [the hero]?\"\n\nEmil: \"Get the [REDACTED] away from me!\"\n\nTranslated: \"Our purpose is to guard the great [Colossus] and the paradise [the hero] provides. We defend [his] as [he] defends us. It is our beloved duty.\"\n\nEmil: \"Insane planet with insane- are we on a tree?\"\n\nTranslated: \"Yet [he] is gone. Gone as the invaders come again!\"\n\nEmil: \"Great. Looks like a Queen. Smells like a Queen, and I\u2019m surrounded by [REDACTED] worker drones.\"\n\nTranslated: \"He is gone. His Guardians aimless, and we-\"\n\nEmil: \"Bloody hell. Get off my leg! Step on me again and I\u2019ll kill you! Where\u2019s my gun, I\u2019ll-\"\n\nTranslated: \"The invader is a gift to remind you of the threat we face and yours to handle as you wish.\"\n\nEmil: \"No! Wait. Get away from me! No no NO-\"\n\n-- End of Recording --\n\n-- End of Excerpt Flagged for Review --\n\n<style=cMono>Local audio transcriptions complete.\n\nTranslation Errors: 2</style>\n# [Colossus] could not be fully translated.\n# [The Hero] could not be fully translated.\n",
+		"MAP_HABITATFALL_LORE": ">  Automated report 9fd5adweadae3dadfe23afe233af345fd234 is now available from site record 906g2222easda21jda323cv32la5790ad4fa23ad.\n> > Please refer to record 906g2222easda21jda323cv32la5790ad4fa23ad for additional personnel details during your review.\n> Report Type: Transcription\n> - Source: 906g2222easda21jda323cv32la5790ad4fa23ad (Personal Suit Recorder)\n> Priority: Medium\n> Report Content:\n\n-- Beginning of Excerpt Flagged for Review --\n\nAdams: \"…they just keep coming Sergeant!\"\n\nSgt. Wylbies: \"Activate all the drones and turrets!\"\n\nAdams: \"That’s for the rallypoint sir!\"\n\nSgt. Wylbies: \"You want to die to a [REDACTED] insect Adams? Activate all the drones!\"\n\nAdams: \"Sir… the ones we just killed…\"\n\nSgt. Wylbies: \"I see it. Reload! We have a few minutes before they-\"\n\n-- End of Recording --\n\n-- End of Excerpt Flagged for Review --\n\n> Please refer to report 23kf43jkm3k34klao0we21495 for full audio excerpt.\n",
 
 		"MAP_LEMURIANTEMPLE_TITLE": "Reformed Altar",
 		"MAP_LEMURIANTEMPLE_SUBTITLE": "Shadow of the Savior",
@@ -132,7 +132,7 @@
 
 		"MAP_HELMINTHROOST_TITLE": "Helminth Hatchery",
 		"MAP_HELMINTHROOST_SUBTITLE": "A Brother\u2019s Respite",
-		"MAP_HELMINTHROOST_LORE": "Massive shining coils shift, red as Mercury blossoms, revealing a sphere of bright molten obsidian glowing inside a bowl of red stone.\nFour stories up a large dark hand reaches through the glassless window, pets the coils and brings the bowl inside.\nStrange tools of silver line the walls alongside endless artifacts freely given, intricately carved, and tenderly loved. His tribute.\nHe pulls an oblong clay jar down, a seal bearing his likeness breaks under his grip with a hiss.\nInside the jar, crackling starseed thorns and dried kifruit skins, their earthy scent fills the smoldering workshop.\nFor the morning star, he reaches into the molten obsidian and pierces the bowl with a starseed thorn from within. A thorn for each fate changed.\nMany thorns and fates later, he tap tap taps a silver tool against the stone of the workshop.\nRed coils in the window shift again, a massive burning eye curiously takes in the room, then it\u2019s open mouth appears in the window, the sudden heat wave sending a song through a ceiling of silver chimes.\nHe places the spiked obsidian ball inside and pats it\u2019s muzzle twice. The gilded worm is to take the mace to the surface. The obsidian cools in a shaft of putrid moonlight, collecting lunar rage and loneliness.\nFor the handle, he wraps a rod of silver in dried kifruit skins and an eon of freedom, lost to gravity wells long ago.\nFinally, he seals the obsidian weapon with a golden T emblem.\nHis gift. No, his apology.",
+		"MAP_HELMINTHROOST_LORE": "Massive shining coils shift, red as Mercury blossoms, revealing a sphere of bright molten obsidian glowing inside a bowl of red stone.\nFour stories up a large dark hand reaches through the glassless window, pets the coils and brings the bowl inside.\nStrange tools of silver line the walls alongside endless artifacts freely given, intricately carved, and tenderly loved. His tribute.\nHe pulls an oblong clay jar down, a seal bearing his likeness breaks under his grip with a hiss.\nInside the jar, crackling starseed thorns and dried kifruit skins, their earthy scent fills the smoldering workshop.\nFor the morning star, he reaches into the molten obsidian and pierces the bowl with a starseed thorn from within. A thorn for each fate changed.\nMany thorns and fates later, he tap tap taps a silver tool against the stone of the workshop.\nRed coils in the window shift again, a massive burning eye curiously takes in the room, then it\u2019s open mouth appears in the window, the sudden heat wave sending a song through a ceiling of silver chimes.\nHe places the spiked obsidian ball inside and pats it\u2019s muzzle twice. The gilded wurm is to take the mace to the surface. The obsidian cools in a shaft of putrid moonlight, collecting lunar rage and loneliness.\nFor the handle, he wraps a rod of silver in dried kifruit skins and an eon of freedom, lost to gravity wells long ago.\nFinally, he seals the obsidian weapon with a golden T emblem.\nHis gift. No, his apology.",
 
 		"CHEF_BODY_NAME": "Chef",
 		"CHEF_BODY_SUBTITLE": "Culinarian Adept",
@@ -143,32 +143,31 @@
 		"CHEF_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "And so it vanished, warranty expired.",
 
 		"CHEF_PASSIVE_NAME": "Chef\u2019s Kiss",
-		"CHEF_PASSIVE_DESCRIPTION": "Killing enemies with 3 or more skills cooks them up and drops a <style=cIsHealing>healing</style> food item.",
+		"CHEF_PASSIVE_DESCRIPTION": "Killing enemies with 2 or more skills cooks them up and drops a <style=cIsHealing>healing</style> food item. Each skill-buff adds <style=cIsHealing>+2 flat healing</style> and <style=cIsHealing>+4% fractional healing</style>, as well as <style=cIsDamage>+75%</style> pickup scale (additive)",
 
 		"CHEF_PRIMARY_NAME": "Dice",
-		"CHEF_PRIMARY_DESCRIPTION": "Throw a cleaver through enemies for <style=cIsDamage>250% damage</style>. Use again to recall the cleaver, dealing <style=cIsDamage>375% damage</style> on the return trip.\n<style=cKeywordName>(Cooldown: 2s)</style>",
-		"CHEF_PRIMARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Dice throws many damaging cleavers in all directions. Use again to recall all cleavers.",
+		"CHEF_PRIMARY_DESCRIPTION": "Throw a cleaver through enemies for <style=cIsDamage>250% damage</style>. Use again to recall the cleaver, dealing <style=cIsDamage>375% damage</style> on the return trip. Holds up to 3 stocks, which recharge at <style=cIsDamage>1.35x</style> attack speed.\n<style=cKeywordName>(Proc: 0.5) (Cooldown: 1.75s)</style>",
+		"CHEF_PRIMARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Dice throws many damaging cleavers in all directions. Use again to recall all cleavers.\n<style=cKeywordName>(Proc: 0.5)</style>",
 
 		"CHEF_SECONDARY_NAME": "Sear",
-		"CHEF_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Scorch nearby enemies for <style=cIsDamage>600% damage</style>. <style=cIsDamage>Glazed</style> enemies take <style=cIsDamage>75% extra damage</style>.\n<style=cKeywordName>(Cooldown: 5s)</style>",
-		"CHEF_SECONDARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Sear scorches nearby enemies and fires three fireballs dealing 700% damage.",
+		"CHEF_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Scorch nearby enemies for <style=cIsDamage>600% damage</style>. <style=cIsDamage>Glazed</style> enemies take <style=cIsDamage>75% extra damage</style>.\n<style=cKeywordName>(Proc: 0.6) (Cooldown: 5s)</style>",
+		"CHEF_SECONDARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Sear scorches nearby enemies and fires three fireballs dealing 700% damage.\n<style=cKeywordName>(Proc: 1)</style>",
 
 
 		"CHEF_UTILITY_NAME": "Roll",
-		"CHEF_UTILITY_DESCRIPTION": "Charge the rolling pin to <style=cIsUtility>speed</style> forward, dealing <style=cIsDamage>500%-800% damage</style> and <style=cIsDamage>Stunning</style> any enemies hit.\n<style=cKeywordName>(Cooldown: 9s)</style>",
-		"CHEF_UTILITY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Roll applies bleed per second dealing <style=cIsDamage>20% damage</style> to all nearby enemies.",
+		"CHEF_UTILITY_DESCRIPTION": "Charge the rolling pin to <style=cIsUtility>speed</style> forward, dealing <style=cIsDamage>500%-800% damage</style> and <style=cIsDamage>Stunning</style> any enemies hit.\n<style=cKeywordName>(Proc: 1) (Cooldown: 9s)</style>",
+		"CHEF_UTILITY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Roll applies bleed per second dealing <style=cIsDamage>20% damage</style> to all nearby enemies.\n<style=cKeywordName>(Proc: 1)</style>",
 
 		"CHEF_SPECIAL_NAME": "Glaze",
-		"CHEF_SPECIAL_DESCRIPTION": "Fire globs of oil in quick succession, dealing <style=cIsDamage>7x200% damage</style>, <style=cIsDamage>Slowing</style>, and <style=cIsDamage>Weakening</style> enemies.\n<style=cKeywordName>(Cooldown: 10s)</style>",
+		"CHEF_SPECIAL_DESCRIPTION": "Fire globs of oil in quick succession, dealing <style=cIsDamage>7x200% damage</style>, <style=cIsDamage>Slowing</style>, and <style=cIsDamage>Weakening</style> enemies.\n<style=cKeywordName>(Proc: 1) (Cooldown: 10s)</style>",
 
 		"CHEF_SPECIAL_ALT1_NAME": "Yes, Chef!",
 		"CHEF_SPECIAL_ALT1_DESCRIPTION": "<style=cIsUtility>Boosts</style> the next Skill used.",
 
-		"KEYWORD_TRANQUILITY": "<style=cKeywordName>Tranquility</style><style=cSub>Gain <style=cIsUtility>+1% to all Stats</style> for each instance of Tranquility on a Survivor.</style>",
 		"KEYWORD_REVIVE": "<style=cKeywordName>Revive</style><style=cSub> Once a condition is met this skill revives one or more dead Survivors.</style>",
-		"KEYWORD_LOWHEALTHPROTECTION": "<style=cKeywordName>Saving Grace</style><style=cSub> Once a condition is met, this skill grants all living Survivors a blessing that <style=cIsHealing>heals</style> Survivors <style=cIsDamage>upon reaching low health.</style></style>",
-		"KEYWORD_GROWTH": "<style=cKeywordName>Growth</style><style=cSub>Enhances the skill when gaining bonus health from items or other sources. Does not benefit from leveling up.</style>",
-		"KEYWORD_LUNARRUIN": "<style=cKeywordName>Lunar Ruin</style><style=cSub>Enemies hit take <style=cIsDamage>+10%</style> more damage from all sources, are slowed, and reduces healing for <style=cIsUtility>5 seconds.</style> <i>Lunar Ruin can stack.</i></style>",
+		"KEYWORD_LOWHEALTHPROTECTION": "<style=cKeywordName>Saving Grace</style><style=cSub> Once a condition is met, all living Survivors gain +7% to all stats while benefitting from Saving Grace. <style=cIsDamage>Upon reaching low health</style> Saving Grace is consumed and <style=cIsHealing>heals for 50% of maximum health</style>.",
+		"KEYWORD_GROWTH": "<style=cKeywordName>Growth</style><style=cSub>Enhances the skill by gaining bonus health from items or other sources. Does not benefit from leveling up.</style>",
+		"KEYWORD_LUNARRUIN": "<style=cKeywordName>Lunar Ruin</style><style=cSub>Enemies hit take <style=cIsDamage>+10%</style> more damage from all sources and reduces healing for <style=cIsUtility>5 seconds.</style> <i>Lunar Ruin can stack.</i></style>",
 		"KEYWORD_IMPACT": "<style=cKeywordName>Impact</style><style=cSub> Charging this skill and using it in air grants <style=cIsUtility>fall damage immunity</style> and <style=cIsDamage>increases in damage and radius</style> for each second the Survivor is falling.</style>",
 
 		"SEEKER_BODY_NAME": "Seeker",
@@ -177,25 +176,30 @@
 		"SEEKER_BODY_LORE": "(\\                                                       \/)\n(--)--------------------------------------(--)\n(\\                                                       \/)\nA new decree.\nSeeker_0222, Diviner of House Beyond, the Herald of your House neglects to report on Zone05_57820.\nThe Herald reported unconfirmed sightings of Blight on the surface.\nWe would see these hysterical rumors extinguished.\nOr perhaps you did not Sanitize the Blight correctly the first time, on Zone04_39666?\nYou know what must be done if Paradise evades our grasp again.\nRecover the Herald only if it does not interfere with your decree and return for reconditioning, report in hand.\nWe look forward to your success superseding their failure.\n\nThird Wing\nHouse Beyond",
 
 		"SEEKER_PASSIVE_NAME": "Inner Strength",
-		"SEEKER_PASSIVE_DESCRIPTION": "Abilities are enhanced with each <style=cIsUtility>Tranquility</style> acquired.",
+		"SEEKER_PASSIVE_DESCRIPTION": "Abilities are enhanced with each <style=cIsUtility>Tranquility to a maximum of 7</style>.  Maximum <style=cIsUtility>Tranquility</style> <style=cIsHealing>Revives</style> and grants <style=cIsHealing>Saving Grace</style>.",
 
 		"SEEKER_PRIMARY_NAME": "Spirit Punch",
-		"SEEKER_PRIMARY_DESCRIPTION": "Fire disembodied fists at enemies for <style=cIsDamage>200% damage</style>. Every 3rd hit explodes dealing <style=cIsDamage>300% damage</style> and increases in damage.",
+		"SEEKER_PRIMARY_DESCRIPTION": "Fire disembodied fists at enemies for <style=cIsDamage>200% damage</style>. Every 3rd hit explodes dealing <style=cIsDamage>300% damage</style> and increases in damage.\n<style=cKeywordName>(Proc: 1.0, 1.0, 0.75)</style>",
+		"SEEKER_PRIMARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every stack of Tranquility increases the damage of Spirit Punch's third hit by <style=cIsDamage>20%</style>.",
 
 		"SEEKER_PRIMARY_ALT1_NAME": "Soul Search",
 		"SEEKER_PRIMARY_ALT1_DESCRIPTION": "Fire tracking orbs at enemies that explodes for <style=cIsDamage>250% damage</style>.",
 
 		"SEEKER_SECONDARY_NAME": "Unseen Hand",
-		"SEEKER_SECONDARY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Launch a phantasmal hand from the ground dealing <style=cIsDamage>600% damage</style>. <style=cIsDamage>Drain</style>, slow and damage enemies. <style=cIsHealing>Heals</style> for every target hit.\n<style=cKeywordName>(Cooldown: 7s)</style>",
+		"SEEKER_SECONDARY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Launch a phantasmal hand from the ground dealing <style=cIsDamage>600% damage</style>. <style=cIsHealing>Heals for 3.5% of the damage dealt</style>.\n<style=cKeywordName>(Cooldown: 7s)</style>",
+		"SEEKER_SECONDARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Increases the healing of Unseen Hand by <style=cIsHealing>4%</style> for every Tranquility.",
 
 		"SEEKER_SECONDARY_ALT1_NAME": "Soul Spiral",
-		"SEEKER_SECONDARY_ALT1_DESCRIPTION": "Manifest rotating orbs dealing <style=cIsDamage>100% damage</style> per second and gaining a <style=cIsHealing>temporary barrier</style> when passing through enemies.",
+		"SEEKER_SECONDARY_ALT1_DESCRIPTION": "Manifest rotating orbs dealing <style=cIsDamage>100% damage</style> per second and gaining a <style=cIsHealing>temporary barrier based on 3% of maximum health</style> when passing through enemies.\n<style=cKeywordName>(Proc: 1) (Cooldown: 7s)</style>",
+		"SEEKER_SECONDARY_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Soul Spiral's orbs lifetime by <style=cIsDamage>18%</style> and <style=cIsHealing>temporary barrier gained based on maximum health by 1%</style>.",
 
 		"SEEKER_UTILITY_NAME": "Sojourn",
-		"SEEKER_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Transform</style> and take <style=cIsUtility>flight</style> as a volatile flame. Explode dealing <style=cIsDamage>550% damage</style>. Exchange <style=cIsHealth>20%</style> damage per second of flight for <style=cIsDamage>increased damage</style>.\n<style=cKeywordName>(Cooldown: 9s)</style>",
+		"SEEKER_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Transform</style> and take <style=cIsUtility>flight</style> as a volatile flame. Explode dealing <style=cIsDamage>550% damage</style>. Exchange <style=cIsHealth>20%</style> damage per second of flight for <style=cIsDamage>increased damage</style>.\n<style=cKeywordName>(Proc: 1) (Cooldown: 9s)</style>",
+		"SEEKER_UTILITY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Each Tranquility increases Sojourn's explosion radius by <style=cIsUtility>0.5m</style>.",
 
 		"SEEKER_SPECIAL_NAME": "Meditate",
-		"SEEKER_SPECIAL_DESCRIPTION": "<style=cIsUtility>Execute</style> timed sequences to blast enemies for <style=cIsDamage>450% damage</style>, <style=cIsHealing>heal</style> nearby allies, and gain <style=cIsUtility>Tranquility</style>. The 7th <style=cIsUtility>Tranquility</style> grants <style=cIsHealing>Revive</style> and <style=cIsHealing>Saving Grace</style>.\n<style=cKeywordName>(Cooldown: 15s)</style>",
+		"SEEKER_SPECIAL_DESCRIPTION": "<style=cIsUtility>Execute</style> timed sequences to blast enemies for <style=cIsDamage>450% damage</style>, <style=cIsHealing>heal nearby allies for 4% of max health</style>, and gain <style=cIsUtility>Tranquility</style>.\n<style=cKeywordName>(Proc: 1) (Cooldown: 15s)</style>",
+		"SEEKER_SPECIAL_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Meditate's healing by <style=cIsHealing>4% of maximum health</style> and damage by <style=cIsDamage>100%</style>.",
 
 		"SEEKER_OUTRO_FLAVOR": "And so she left, burdened with knowledge.",
 		"SEEKER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "And so she vanished, replacement en route.",
@@ -207,7 +211,6 @@
 		"FALSESONBOSS_BODY_NAME": "False Son",
 		"FALSESON_BODY_SUBTITLE": "The Shattered Heir",
 		"FALSESON_BOSS_BODY_SUBTITLE": "Eye of the Storm",
-		"COMMANDO_DESCRIPTION": "The Commando is a jack of all trades character that is reliable in all situations of the game. <style=cSub>\r\n\r\n< ! > Double Tap is powerful at both short and long range, firing quickly and activating many item effects.\r\n\r\n< ! > Effective use of his Tactical Dive is key to dodging heavily telegraphed attacks.\r\n\r\n< ! > Suppressive Fire can be used to repeatedly stun a single enemy, or stun a group.\r\n\r\n< ! > Phase Rounds can pass through walls use that to your advantage!<\/style>\r\n\n<style=cKeywordName>Health: 110 (+33 per level)<\/style>\n<style=cKeywordName>Health Regen: 1\/s (+0.2 per level)<\/style>\n<style=cKeywordName>Damage: 12 (+2.4 per level)<\/style>\n<style=cKeywordName>Armor: 0<\/style>",
 		"FALSESON_DESCRIPTION": "The False Son is a slow but stalwart close-range warrior. With extreme health and defense, False Son can weather any storm. Use False Son\u2019s durability to stay in the fray and capitalize on his slow but deadly skills.<style=cSub>\r\n\r\n< ! > False son closes the distance on enemies with dashes to deliver destruction with his lunar club. Charge the club swing for an explosive slam.\r\n\r\n< ! > Laser of the Father and Club of the Forsaken slowly charge for high damage. Health items increase your Lunar Spike count, increasing your power. Try building into items that increase your health and durability.\r\n\r\n< ! > For each Lunar Spike you have you gain attack speed and armor and using the Lunar Spikes depletes those bonuses. The more depleted slots of Lunar Spikes you have, the quicker you will move and heal.\r\n\r\n< ! > Utilize the long-range potential of your laser and lunar spikes to pick off out-of-reach aerial enemies.\r\n<\/style>\r\n<style=cKeywordName>Health: 180 (+54 per level)<\/style>\n<style=cKeywordName>Health Regen: 1/s (+0.2 per level)<\/style>\n<style=cKeywordName>Damage: 13 (+2 per level)<\/style>\n<style=cKeywordName>Armor: 0<\/style>",
 		"FALSESON_BODY_LORE": "Songs turned to screams,\nClaws which carved my body tore it apart.\nNow the Moon\u2019s light is heavy with his howling hatred,\nand the silence haunts me.\nMade in his image, I was to be a guardian.\nA replacement, now a disappointment.\nThey shudder at my approach.\nMy path laid empty.\n\nWhere they desired divinity, I found contempt.\nWho they called unclean, I call unchained.\nTones of gold and stone open to me,\nTrails without shards and curses.\n\nWith my eye I see a new way.\nWith my club I create a new path.",
 
@@ -218,19 +221,19 @@
 		"FALSESON_PASSIVE_ALT1_DESCRIPTION": "TBD. False Son passive alt1 description here.",
 
 		"FALSESON_PRIMARY_NAME": "Club of the Forsaken",
-		"FALSESON_PRIMARY_DESCRIPTION": "Hold the primary button to swing the False Son\u2019s club at nearby enemies for <style=cIsDamage>300% damage</style>. Hold the primary and secondary buttons to charge a slam for <style=cIsDamage>1500%</style>.",
+		"FALSESON_PRIMARY_DESCRIPTION": "Hold the primary button to swing the False Son\u2019s club at nearby enemies for <style=cIsDamage>300% damage</style>. Hold the primary and secondary buttons to charge a slam for <style=cIsDamage>1500%</style>.\n<style=cKeywordName>(Proc: 1)</style>",
 
 		"FALSESON_SECONDARY_NAME": "Lunar Spikes",
-		"FALSESON_SECONDARY_DESCRIPTION": "<style=cIsUtility>Lunar Ruin</style>. Throw a Lunar Spike for <style=cIsDamage>150% damage.</style> Gain additional Lunar Spikes through <style=cIsHealing>Growth</style>.\n<style=cKeywordName>(Cooldown: 4s)</style>",
+		"FALSESON_SECONDARY_DESCRIPTION": "<style=cIsUtility>Lunar Ruin</style>. Throw a Lunar Spike for <style=cIsDamage>150% damage.</style> Gain additional Lunar Spikes through <style=cIsHealing>Growth</style>.\n<style=cKeywordName>(Proc: 1.0 / 3.0 fully charged) (Cooldown: 4s)</style>",
 
 		"FALSESON_UTILITY_NAME": "Step of the Brothers",
-		"FALSESON_UTILITY_DESCRIPTION": "Dash a short distance, generating an explosion of <style=cIsDamage>200% damage</style> for every enemy hit. <style=cIsUtility>Two uses</style>.\n<style=cKeywordName>(Cooldown: 8s)</style>",
+		"FALSESON_UTILITY_DESCRIPTION": "Dash a short distance, generating an explosion of <style=cIsDamage>200% damage</style> for every enemy hit. <style=cIsUtility>Two uses</style>.\n<style=cKeywordName>(Proc: 1) (Cooldown: 8s)</style>",
 
 		"FALSESON_SPECIAL_NAME": "Laser of the Father",
-		"FALSESON_SPECIAL_DESCRIPTION": "Charge up to 1.5 seconds to fire a rapidly hitting laser for <style=cIsDamage>30%-175% damage</style> for <style=cIsUtility>4 seconds</style> and <style=cIsUtility>refills Lunar Spikes</style>. Increases in duration through <style=cIsHealing>Growth</style>.\n<style=cKeywordName>(Cooldown: 15s)</style>",
+		"FALSESON_SPECIAL_DESCRIPTION": "Charge up to 1.5 seconds to fire a rapidly hitting laser for <style=cIsDamage>30%-175% damage</style> for <style=cIsUtility>4 seconds</style> and <style=cIsUtility>refills Lunar Spikes</style>. Increases in duration through <style=cIsHealing>Growth</style>.\n<style=cKeywordName>(Proc: 0.45) (Cooldown: 15s)</style>",
 
 		"FALSESON_SPECIAL_ALT1_NAME": "Laser Burst",
-		"FALSESON_SPECIAL_ALT1_DESCRIPTION": "Fire a piercing laser for <style=cIsDamage>1000% damage</style>, refilling 30% Lunar Spikes. Increases in stock by <style=cIsHealing>Growth</style>.",
+		"FALSESON_SPECIAL_ALT1_DESCRIPTION": "Fire an exploding laser for <style=cIsDamage>1000% damage</style>, refilling 30% Lunar Spikes. Increases in stock by <style=cIsHealing>Growth</style>.\n<style=cKeywordName>(Proc: 1) (Cooldown: 7s)</style>",
 
 		"FALSESON_OUTRO_FLAVOR": "And so he left, drawn to a call in the darkness.",
 		"FALSESON_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "And so he vanished, a gift unspent.",
@@ -238,48 +241,50 @@
 		"CORRUPTIONSPIKE_BODY_NAME": "Lunar Rain",
 
 		"ITEM_BOOSTALLSTATS_NAME": "Growth Nectar",
-		"ITEM_BOOSTALLSTATS_PICKUP": "Survivors with 5 or more buffs are marked for greatness.",
-		"ITEM_BOOSTALLSTATS_DESC": "While benefitting from 5+ unique buffs gain 20% <style=cStack>(+20% per stack, Linear)</style> bonus stats for <style=cIsUtility>5</style> seconds.",
+		"ITEM_BOOSTALLSTATS_PICKUP": "Your buffs grant an increase to ALL of your stats.",
+		"ITEM_BOOSTALLSTATS_DESC": "Grants <style=cIsUtility>7%</style> <style=cStack>(+7% per stack, Linear)</style> increase to <style=cIsUtility>ALL stats</style> for each buff, up to a maximum of <style=cIsUtility>4</style> <style=cStack>(+4 per stack, Linear)</style>.",
 		"ITEM_BOOSTALLSTATS_LORE": "ONE MASK.\nLARGE, OF OUR RESTING BONES\nI PULL FROM DEEP FERTILE SOIL.\nI COAT IT IN A ROYAL GLAND - THIS IS FOR GROWTH.\nI GIVE IT RED LENSES - THESE ARE FOR PRECISION\nI STEEP IN SHINING NECTAR - THIS IS FOR ASCENSION.\nSTAND AND BE WELCOME, FIRST DAUGHTER OF PARADISE.\nLET US SHOW YOU OUR GARDEN.\nAND YOU WILL SHOW US HOW TO PROTECT IT.\nTO THE COLONY THE SEED, TO US THE NECTAR.",
 
 		"ITEM_EXTRASHRINEITEM_NAME": "Chance Doll",
-		"ITEM_EXTRASHRINEITEM_PICKUP": "Chance to increase item rarity at Shrines of Chance.",
-		"ITEM_EXTRASHRINEITEM_DESC": "<style=cIsUtility>20%</style> <style=cStack>(+8% per stack, Linear)</style> chance to get higher rarity items from chance shrines on success.",
+		"ITEM_EXTRASHRINEITEM_PICKUP": "Gain 40% chance to increase item rarity at Shrines of Chance.",
+		"ITEM_EXTRASHRINEITEM_DESC": "On Shrine of Chance success, <style=cIsUtility>40%</style> <style=cStack>(+10% per stack, Linear)</style> chance to get higher rarity items.",
 		"ITEM_EXTRASHRINEITEM_LORE": "Two reptilian figures walk deep into Stone territory, the smaller one carries a stone-string doll. Cairns and more dolls decorate the path.\n---\nI do as you say, I bring my friend Pebl, but I do not like it.\nFather, must we leave her?\n\nHumling, we must return Pebl to her first family.\nTo honor our agreement, we return her before your Humling days are behind you.\n\nI do as you say, I think she will like leaning here, do you?\nFather, where is her family?\nHumling, when the demon fell from the Sky, many families hid themselves away.\nTo protect her, her family will see the demon resolved before returning.\nI do as you say.\nFather, I will miss her.",
+		"ITEM_EXTRASHRINEITEM_SUCCESS_FORMAT": "<color=#53ff00>{0} offered to the shrine and was greatly rewarded!</color>",
+		"ITEM_EXTRASHRINEITEM_SUCCESS_FORMAT_2P": "<color=#53ff00>You offer to the shrine and are greatly rewarded!</color>",
 
-		"ITEM_KNOCKBACKHITENEMIES_NAME": "Knockback Fin",
-		"ITEM_KNOCKBACKHITENEMIES_PICKUP": "On hit, enemies are knocked into the air.",
-		"ITEM_KNOCKBACKHITENEMIES_DESC": "<style=cIsUtility>7.5%</style> <style=cStack>(+7.5% per stack, Linear)</style> chance on hit to knock enemies into the air. <style=cStack>(height increases per stack, unknown scaling)</style>.",
-		"ITEM_KNOCKBACKHITENEMIES_LORE": "Shipping details\nOrder: Knockback Fin\nEstimated Delivery: 01\/01\/2057\nShipping method: Biological\n\nSent to:\nFort Joseph\nUES B1053 Port Station,\nBoron System\n\nOrder details:\nImpressed? I know you are.\nWe finally cleared our grid, but man did it put up a fight. We lost James and Kight. This fin knocked them off the U.E.S.S. [REDACTED] with so much force we heard them hit the water in pieces. At least it was quick.\n\nThere isn\u2019t a speck of land on this blasted planet but now it\u2019s safe enough to build our first dock. It\u2019s not land, but it\u2019s a step up from this flotsam. I won\u2019t miss giant sea creatures bumping the ship in the night, or losing my lunch to this damn swaying.\n\nGet us a good commission for it will ya? And send down some playing cards, the silence is killing us. \n\n- Private Bowen",
+		"ITEM_KNOCKBACKHITENEMIES_NAME": "Breaching Fin",
+		"ITEM_KNOCKBACKHITENEMIES_PICKUP": "Grounded enemies hit with any skill are launched and take bonus damage.",
+		"ITEM_KNOCKBACKHITENEMIES_DESC": "Grounded enemies hit with any <style=cIsUtility>skill</style> are <style=cIsUtility>launched</style> and <style=cIsUtility>stunned</style>. Enemies hit while airborne are <style=cIsUtility>launched</style> again up to <style=cIsUtility>2 times</style> <style=cStack>(+1 per stack, Linear)</style>. Launched enemies take increased damage by <style=cIsDamage>20%</style> from all sources per launch. Recharges after <style=cIsUtility>10s</style>.",
+		"ITEM_KNOCKBACKHITENEMIES_LORE": "Shipping details\nOrder: Breaching Fin\nEstimated Delivery: 01\/01\/2057\nShipping method: Biological\n\nSent to:\nFort Joseph\nUES B1053 Port Station,\nBoron System\n\nOrder details:\nImpressed? I know you are.\nWe finally cleared our grid, but man did it put up a fight. We lost James and Kight. This fin knocked them off the U.E.S.S. [REDACTED] with so much force we heard them hit the water in pieces. At least it was quick.\n\nThere isn\u2019t a speck of land on this blasted planet but now it\u2019s safe enough to build our first dock. It\u2019s not land, but it\u2019s a step up from this flotsam. I won\u2019t miss giant sea creatures bumping the ship in the night, or losing my lunch to this damn swaying.\n\nGet us a good commission for it will ya? And send down some playing cards, the silence is killing us. \n\n- Private Bowen",
 
 		"ITEM_LOWERHEALTHHIGHERDAMAGE_NAME": "Bolstering Lantern",
-		"ITEM_LOWERHEALTHHIGHERDAMAGE_PICKUP": "Deal extra damage at lower health.",
-		"ITEM_LOWERHEALTHHIGHERDAMAGE_DESC": "When below <style=cIsHealth>50% health</style> receive a damage increase of <style=cIsDamage>20%</style> <style=cStack>(+20% per stack, Linear)</style>.",
+		"ITEM_LOWERHEALTHHIGHERDAMAGE_PICKUP": "Increases your attack speed for every nearby enemy and ally.",
+		"ITEM_LOWERHEALTHHIGHERDAMAGE_DESC": "Increase your <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style> for up to <style=cIsUtility>4</style> <style=cStack>(+2 per stack, Linear)</style> enemies and allies within <style=cIsUtility>20</style> <style=cStack>(+2.5 per stack, Hyperbolic)</style> meters.",
 		"ITEM_LOWERHEALTHHIGHERDAMAGE_LORE": "To proceed with construction of our [hope], we must master the powers of this temple, and so, regrettably-\nONE DESECRATED FRAGMENT, STOLEN FROM A HOLY STRUCTURE.\nTo proceed is already difficult, I wish you wouldn\u2019t say it like that-\nI WATCH THE SLOW LEMURIAN CARVE PROTECTIVE RUNES.\n-…I see you\u2019ll be testing my patience in this collaboration.\nLET US BEGIN.\nI see a fine light, but we\u2019re hoping to use it for strength when we\u2019re wound-\nA PALM OF AMETHYST DUST – THIS IS FOR STRENGTH.\nA PINCH OF [powder] – THIS IS FOR S-.\nStop stop! We are not ready to introduce Soul yet, it\u2019s unstable. We want something to make us, and our [hope], stronger.\nHOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?",
 
 		"ITEM_INCREASEPRIMARYDAMAGE_NAME": "Luminous Shot",
-		"ITEM_INCREASEPRIMARYDAMAGE_PICKUP": "Secondary skill use increases Primary Skill's next shot's damage.",
-		"ITEM_INCREASEPRIMARYDAMAGE_DESC": "Using the secondary skill charges the next primary attack, dealing <style=cIsDamage>+150%</style> damage <style=cStack>(+25% per item stack, Linear)</style> per charge up to <style=cIsUtility>5</style> times <style=cStack>(+1 per stack, Linear)</style>.",
+		"ITEM_INCREASEPRIMARYDAMAGE_PICKUP": "Activating your Secondary skill charges your Primary skill with powerful lightning strikes. Requires 3 charges.",
+		"ITEM_INCREASEPRIMARYDAMAGE_DESC": "Activating <style=cIsUtility>Secondary skill</style> stores up to <style=cIsUtility>5 charges</style> <style=cStack>(+1 per stack, Linear)</style>. Requires <style=cIsUtility>3 charges</style> for your <style=cIsUtility>Primary skill</style> to fire lightning strikes, dealing <style=cIsDamage>175% TOTAL damage</style> <style=cStack>(+50% per stack, Linear)</style> each. <style=cIsUtility>Reduces Secondary skill cooldown by 20%</style>.",
 		"ITEM_INCREASEPRIMARYDAMAGE_LORE": "Shipping details\nOrder: NextTech - 1st Place\nEstimated Delivery: 06\/20\/2057\nShipping method: High Priority\n\nShipping Address:\nUES Shipyard\nFreight Transit, Station 6\nLuna\n\nShipping details:\n\"Results are in!\nThe 2057 NextTech winner is the Luminous Shot, crafted by Inventor M. Louis VI of Europa.\n\nM. Louis comments on her victory, \u2019Thank you for the opportunity to contribute to progress. Looking forward to next year.\u2019\n\nComing in 2nd, the Preon Accumulator, crafted by Technician Neil Hasting of Earth. Neil comments, \u2019I\u2019m proud of what I submitted, but these fancy Europans put up a good fight, using [REDACTED] tech? How did she even find that? Her cross-weapon sync theory demands respect. See you next year for a rematch, Maggie.\u2019\nThe coup still fresh on Europa\u2019s mind, the new acting government confronts her controversial work on the Crowdfunder, a tool of suppression used by the old monarchy. M. Louis replies to critics, \u2019I take responsibility for the abuse of my invention, I ask that you evaluate my work going forward by how it can help us prevent this kind of tragedy.\u2019\"\n\n - The Saturn Reporter, Technology Section",
 
 		"ITEM_LOWERPRICEDCHESTS_NAME": "Sale Star",
 		"ITEM_LOWERPRICEDCHESTS_PICKUP": "First chest bought yields more than one reward. Usable once per stage.",
-		"ITEM_LOWERPRICEDCHESTS_DESC": "Gain an extra item on the first chest opened per stage. <style=cStack>Each additional Sale Star increases the chance of getting more items by 5%.</style>.\n\n<style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>Each additional stack</style> increases the <style=cIsDamage>TOTAL number of items</style> you could gain from the first chest, and is <style=cIsUtility>re-rolled</style> for <style=cIsDamage>each individual item seperately.</style>\n\nYou can think of it as rolling a <style=cIsDamage>20-sided-die</style> once per additonal stack. Each time you get a <style=cIsUtility>20</style> on the die, you gain <style=cIsDamage>one aditional item.</style>\n<style=cIsHealth>< ! > <i>This explanation assumes you do not have any changes to your luck stat!</i></style></style>",
+		"ITEM_LOWERPRICEDCHESTS_DESC": "Gain an extra item on the first chest opened per stage. <style=cStack>Each additional Sale Star increases the chance of getting more items by 5%</style>.\n\n<style=cKeywordName>Stacking Info</style><style=cSub><style=cStack>Each additional stack</style> increases the <style=cIsDamage>TOTAL number of items</style> you could gain from the first chest, and is <style=cIsUtility>re-rolled</style> for <style=cIsDamage>each individual item seperately.</style>\n\nYou can think of it as rolling a <style=cIsDamage>20-sided-die</style> once per additonal stack. Each time you get a <style=cIsUtility>20</style> on the die, you gain <style=cIsDamage>one aditional item.</style>\n<style=cIsHealth>< ! > <i>This explanation assumes you do not have any changes to your luck stat!</i></style></style>",
 		"ITEM_LOWERPRICEDCHESTS_LORE": "Shipping details\nOrder: Discount Star Charm\nEstimated Delivery: 05\/11\/2057\nShipping method: Standard\n\nShipping Address:\nUES Shipyard\nFreight Customs Center\nLuna\n\nShipping details\n\n//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\nTwo UES Cadets cluster behind their scanning machine to stare at a small, simple-looking star.\n\n\"What IS it though? I thought it threw an alert?\"\n\n\"Well it\u2019s not anymore, maybe the scanner is finally goin\u2019.\" One Cadet flips the star around and squints. \"I think there\u2019s a B carved into it…\"\n\n\"Wish it would, they won\u2019t send us a new one until this fossilizes.\" The other Cadet slaps the scanner.\n\nA visiting General turns the corner and cuts in, \"Problem, Cadets?\"\n\nBoth Cadets squeal and snap to attention, saluting the General. The suspicious star clatters down the approval chute with a loud affirming buzz.\n\nThe General turns to hide a grin as he leaves, \"As you were.\"\n\nThe Cadets exchange a nervous glance over the chute. Probably nothing.",
 
 		"ITEM_LOWERPRICEDCHESTSCONSUMED_NAME": "Sale Star (Consumed)",
-		"ITEM_LOWERPRICEDCHESTSCONSUMED_PICKUP": "A spent Sale Star. At the start of each stage, it transforms into Sale Star.",
-		"ITEM_LOWERPRICEDCHESTSCONSUMED_DESC": "A spent Sale Star. At the start of each stage, it transforms into Sale Star.",
+		"ITEM_LOWERPRICEDCHESTSCONSUMED_PICKUP": "At the start of each stage, it transforms into Sale Star.",
+		"ITEM_LOWERPRICEDCHESTSCONSUMED_DESC": "At the start of each stage, it transforms into Sale Star.",
 		"ITEM_LOWERPRICEDCHESTSCONSUMED_LORE": "N\/A",
 
-		"ITEM_NEGATEATTACK_NAME": "Antler Shield",
-		"ITEM_NEGATEATTACK_PICKUP": "Chance to reflect incoming damage.",
-		"ITEM_NEGATEATTACK_DESC": "<style=cIsUtility>55%</style> <style=cStack>(+5% per stack, Linear)</style> chance on being hit to reflect <style=cIsUtility>10%</style> <style=cStack>(+10% per stack, Linear)</style> damage back to the attacker.",
-		"ITEM_NEGATEATTACK_LORE": "Shipping details\nOrder: Questionable Antlers\nEstimated Delivery: 01\/20\/2057\nShipping method: Standard\n\nSent to:\nLocker #02\nMerchants Guild\nMercury\n\nOrder details:\nLet\u2019s wrap this up, the General is not a patient man.\nI\u2019m leaving your order in the locker you specified.\n\nI expect full payment, or I\u2019ll hire some Grey Guilders to count the gold straight from your pocket.\n\nBefore the General hunted a bigger set for himself, this pair was …favored… in the field. Only put these under a microscope if you want trouble sleeping.\n\nI\u2019ve tried many hemo-scrubs but whatever makes these so sturdy also made it impossible to clean entirely. I\u2019ve attached some nano tech (not cheap!) to the device to let it through the UES bio-scanners. The rest is up to you.\n\n-R",
+		"ITEM_SPEEDBOOSTPICKUP_NAME": "Elusive Antlers",
+		"ITEM_SPEEDBOOSTPICKUP_PICKUP": "Increase movement speed. Spawns orbs of energy that give bonus movement speed.",
+		"ITEM_SPEEDBOOSTPICKUP_DESC": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>7%</style> <style=cStack>(+7% per stack, Linear)</style>. Spawns orbs of energy nearby every <style=cIsUtility>10s</style> <style=cStack>(-10% per stack, Hyperbolic)</style>, giving <style=cIsUtility>+12% movement speed</style> up to <style=cIsUtility>3</style> <style=cStack>(+1 per stack, Linear)</style> <style=cIsUtility>times</style> for <style=cIsUtility>12s</style>.",
+		"ITEM_SPEEDBOOSTPICKUP_LORE": "Shipping details\nOrder: Questionable Antlers\nEstimated Delivery: 01\/20\/2057\nShipping method: Standard\n\nSent to:\nLocker #02\nMerchants Guild\nMercury\n\nOrder details:\nLet\u2019s wrap this up, the General is not a patient man.\nI\u2019m leaving your order in the locker you specified.\n\nI expect full payment, or I\u2019ll hire some Grey Guilders to count the gold straight from your pocket.\n\nBefore the General hunted a bigger set for himself, this pair was …favored… in the field. Only put these under a microscope if you want trouble sleeping.\n\nI\u2019ve tried many hemo-scrubs but whatever makes these so sturdy also made it impossible to clean entirely. I\u2019ve attached some nano tech (not cheap!) to the device to let it through the UES bio-scanners. The rest is up to you.\n\n-R",
 
 		"ITEM_RESETCHESTS_NAME": "Sonorous Whispers",
 		"ITEM_RESETCHESTS_PICKUP": "Upon large or elite monster kill chance to drop items.",
-		"ITEM_RESETCHESTS_DESC": "When a large monster is killed it will always drop an item. All elites have a <style=cIsUtility>15%</style> chance of dropping an item <style=cStack>(+5% per stack, Linear)</style>.",
+		"ITEM_RESETCHESTS_DESC": "When a large monster is killed it will always drop an item. All elites have a <style=cIsUtility>4%</style> chance of dropping an item <style=cStack>(+1% per stack, Linear)</style>.",
 		"ITEM_RESETCHESTS_LORE": "A tidepool lapped gently at the silty edge of the grotto.\nA soldier clumsy with darkness scrounged for supplies on the shoreline, a broken arm bound in splint and linen.\nA small chest is emptied, something stowed in the pocket of the soldier.\nA conch next, heavy with silt, he holds it to his ear.\nA drip of red trails his neck, stemming from his ear, unnoticed in the dark.\nA turn to leave the grotto, he spots a small chest once again sealed.\nA soldier empties it once more with a shaking hand.",
 
 		"ITEM_STUNANDPIERCE_NAME": "Electric Boomerang",
@@ -288,44 +293,52 @@
 		"ITEM_STUNANDPIERCE_LORE": "Shipping details\nOrder: --\nEstimated Delivery: --\nShipping method: --\n\nShipping address\n--\nShipping details:\nThe camp is not well. Blood, thorns and worse litter the area. Days old. He almost made it. He wanders numbly through the wreckage to salvage what he can, eyes empty.\nInside the science vessel Private Gupta finds the roster exceeds the graves he dug. Maybe some escaped. Checking crew quarters, Gupta gasps and rushes up to a mounted metallic boomerang like an old friend.\nHesitating, he pulls it from the wall. He recognizes the signature, his mom\u2019s favorite retired ShockRunner player, \u2019Joseph Tharson\u2019, of The Volts. His grip tightens as he eases shakily to a knee. Maybe he was meant to survive after all.\n-Signal echoes, UES Contact Light ",
 
 		"ITEM_TRIGGERENEMYDEBUFFS_NAME": "Noxious Thorn",
-		"ITEM_TRIGGERENEMYDEBUFFS_PICKUP": "When taking damage chance to trigger active enemy debuffs. Applies bleed.",
-		"ITEM_TRIGGERENEMYDEBUFFS_DESC": "<style=cIsDamage>25% chance</style> on being hit to inflict nearby enemies with <style=cIsDamage>2</style> <style=cStack>(+1 per stack, Linear)</style> stacks of bleed. If enemies are already inflicted with one or more stackable debuffs, add <style=cIsDamage>1</style> <style=cStack>(+1 per stack, Linear)</style> to those debuffs instead.",
+		"ITEM_TRIGGERENEMYDEBUFFS_PICKUP": "Killing an enemy transfers debuffs to a nearby enemy.",
+		"ITEM_TRIGGERENEMYDEBUFFS_DESC": "Gain <style=cIsDamage>10%</style> chance to <style=cIsDamage>bleed</style> an enemy. On killing an enemy, <style=cIsDamage>transfer 33%</style> of every debuff stack to <style=cIsDamage>1 enemy</style> <style=cStack>(+1 per stack, Linear)</style> within <style=cIsUtility>20m</style> <style=cStack>(+5m per stack, Linear)</style>.",
 		"ITEM_TRIGGERENEMYDEBUFFS_LORE": "Shipping details\nOrder: --\nEstimated Delivery: --\nShipping method: --\n\nShipping address:\n--\n\nShipping details:\n//--AUTO-TRANSCRIPTION FROM UES [Redacted] --// \n\"Campbell, where did Furthen go?\" \n\"Wanted a \u2019closer look\u2019 at the native fauna. Took Tharson.\" \n\"…Absolute loon. You done yet?\" \nCampbell glares at Andrews, then gasps.\nBehind him dozens of dots climb the sky, growing to clay jars at their apex.\nClay shatters against the camp in a brief violent hail, coating it in yellow ichor and chaos. \n[5 minutes later] \nCampbell snaps awake to a scream cut short by a wet slice. She struggles out from under half of Andrews and gags at the vile smell. Shouting, chiton, gunfire, then silence. \nA limping Beetle approaches, it\u2019s stump leg crunches onto thorns hidden by ichor and it shrieks, convulsing. Campbell screams and fires but her pistol jams with ichor. The Beetle shudders and it\u2019s many small wounds open and turn to sickly, yellow rivers.\nThe Beetle twitches and falls, a splash of its warm blood hits Campbell.",
 
 		"ITEM_INCREASEDAMAGEONMULTIKILL_NAME": "Chronic Expansion",
-		"ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": "Gain Damage after killing enemies in quick succession.",
-		"ITEM_INCREASEDAMAGEONMULTIKILL_DESC": "Every <style=cIsDamage>5</style> enemies slain grants a damage counter bonus increasing the players damage by <style=cIsDamage>10%</style> <style=cStack>(+5% per item stack, Linear)</style>, lasting as long as the player stays in combat.",
+		"ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": "Deal bonus damage for each enemy killed.",
+		"ITEM_INCREASEDAMAGEONMULTIKILL_DESC": "Killing an enemy increases your damage by <style=cIsDamage>3.5%</style> <style=cStack>(+1% per stack, Linear)</style>, up to <style=cIsUtility>10</style> <style=cStack>(+5 per stack, Linear)</style>, for <style=cIsUtility>7s</style>. Dealing damage refreshes the timer.",
 		"ITEM_INCREASEDAMAGEONMULTIKILL_LORE": "Shipping details\nOrder: Chronic Expansion\nEstimated Delivery: 12\/21\/2057\nShipping method: Military\/High Priority\n\nSent to:\nGeneral Reid\nHero\u2019s Barracks,\nMars\n\nOrder details:\nGeneral Reid,\nI examined the devices you sent me and sure enough your unit has been getting WAY too much phencyclidine in their doses. That may explain them trying to eat each other. I\u2019ve lowered the threshold by 15%.\n\nOn the bright side, their hand eye coordination has been off the charts. Given the right gun, these soldiers could strike a jet from the ground.\n\nIf this trial goes well, and their lungs return to normal, I\u2019ll clear them for duty.\n\n- Dr. Zhao",
 
 		"ITEM_GOLDONSTAGESTART_NAME": "War Bonds",
-		"ITEM_GOLDONSTAGESTART_PICKUP": "Gain gold on stage start.",
-		"ITEM_GOLDONSTAGESTART_DESC": "Yields 75 gold <style=cStack>(+25 gold per stack, Linear)</style> based on current difficulty level and the survivor\u2019s level at the start of every stage.",
+		"ITEM_GOLDONSTAGESTART_PICKUP": "Bombard boss events with missiles. The more gold earned, the more UES support is granted.",
+		"ITEM_GOLDONSTAGESTART_DESC": "During boss events, <style=cIsUtility>5</style> missiles bombard the area, dealing <style=cIsDamage>2.5% <style=cStack>(+2.5% per stack, Linear)</style> of boss' Max Health in damage</style>. Before the boss event, gain additional missiles, up to a maximum of <style=cIsUtility>20</style> <style=cStack>(+5 per stack, Linear)</style>, per <style=cIsUtility>25</style> gold gained. <style=cIsUtility>Gold requirement scales over time.</style>",
 		"ITEM_GOLDONSTAGESTART_LORE": "Shipping details\nOrder:\nEstimated Delivery: x\/x\/2027\nShipping method:\n\nSent to:\n\n\nWelcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\n\nATTN: VALUED SOLDIER\nDue to short-term budgetary constraints, and evolving business realities, your salary will be converted to official UES Bonds! For your convenience, this process occurs automatically. Transfer fees may apply. Ask your XO for details on further exciting investment opportunities. As the proud holder of this bond, you\u2019re not just a soldier; you\u2019re an investor!\n- Finance Officer [NAME REDACTED] – UES Port Trailing Comet\n\n$ Message attachment loading... done.\n\nWAR BOND - SERIES 2057\n     > Term: [REDACTED] Years\n     > Interest: 28.6% APR (pre-management fees)\n     > Transferability: Non-transferable\n     > Rights on Holder\u2019s Incapacity: Return to UES\n[ADDITIONAL TERMS AVAILABLE UPON REQUEST]",
 
 		"ITEM_DELAYEDDAMAGE_NAME": "Warped Echo",
-		"ITEM_DELAYEDDAMAGE_PICKUP": "Splits incoming damage.",
-		"ITEM_DELAYEDDAMAGE_DESC": "On damage taken <style=cIsDamage>50%</style> of the damage is dealt immediately while the other <style=cIsDamage>50%</style> is delayed for <style=cIsDamage>3</style> seconds. This effect has a cooldown of <style=cIsUtility>10</style> seconds. <style=cStack>Every additional item</style> increases how many instances of this effect the player has.",
+		"ITEM_DELAYEDDAMAGE_PICKUP": "Incoming damage is reduced and dealt over time.",
+		"ITEM_DELAYEDDAMAGE_DESC": "The next source of damage is <style=cIsHealing>reduced</style> by <style=cIsHealing>30%</style> and <style=cIsHealing>spread</style> into <style=cIsUtility>3 <style=cStack>(+1 per stack, Linear)</style> hits</style>. All echoed damage is <style=cIsUtility>non-lethal</style> except for the final hit. Recharges every <style=cIsUtility>15s</style> <style=cStack>(-3% per stack, Linear)</style>.",
 		"ITEM_DELAYEDDAMAGE_LORE": "Shipping details\nOrder: Glass-Like Europan Compound\nEstimated Delivery: 09\/23\/2057\nShipping method: Standard\n\nShipping Address:\nPaleontology Department\nUES Satelite 3C\nSaturn\n\nShipping details:\nLab Dissection Analysis File\nSubject: Warped Echo\nTechnician: Eleanor Veirs\nTable Spec: Mineral Analysis with Kinetic Soak Gauntlets\n- A smooth circle, cold to the touch. I probably shouldn\u2019t have touched it.\n- Using kinetic gloves, I\u2019ll chisel a piece of the large dark polished \u2019crystal\u2019 for testing.\n- No use. heavy equipment can\u2019t get the crystal to fracture\n- I resentfully observe it intact under a powerful microscope.\n- Despite it\u2019s structured form, compound seems organically created and new to our databases.\n- Carbon indicates this pre-dates the Europan ocean. Barely.\n- My assistant Claire claps me on the back before heading to lunch, I barely feel it.\n- Later I felt an impact on my back in the same spot she touched me.\n- Finally, a breakthrough. We grin like wolves.\nClaire brings her lunch into the lab (not recommended, but delicious).\nI was about to send this boring thing off to Kosta for appraisal, but now we have work to do.",
 
 		"ITEM_TELEPORTONLOWHEALTH_NAME": "Unstable Transmitter",
-		"ITEM_TELEPORTONLOWHEALTH_PICKUP": "On low health, explode and teleport away a short distance.",
-		"ITEM_TELEPORTONLOWHEALTH_DESC": "When reaching below <style=cIsHealing>25%</style> health the Survivor explodes, dealing <style=cIsDamage>350%</style> <style=cStack>(+350% per stack, Linear)</style> damage to nearby enemies and teleporting to a random location. This effect has a cooldown of <style=cIsUtility>2</style> minutes <style=cStack>(-5% per stack, Linear)</style>.",
+		"ITEM_TELEPORTONLOWHEALTH_PICKUP": "Gain a temporary barrier and a dimensional aura on low health.",
+		"ITEM_TELEPORTONLOWHEALTH_DESC": "Falling below <style=cIsHealth>25% health</style> gives you <style=cIsHealing>75%</style> of your <style=cIsHealing>maximum health</style> as a <style=cIsHealing>temporary barrier</style>. Gain a dimensional aura for <style=cIsUtility>8s</style> that <style=cIsDamage>bleeds</style> and <style=cIsUtility>teleports</style> away enemies. <style=cIsDamage>Enemies killed</style> by the aura <style=cIsUtility>extend</style> the duration by 1s. Recharges every <style=cIsUtility>45s</style> <style=cStack>(-10% per stack, Hyperbolic)</style>.",
 		"ITEM_TELEPORTONLOWHEALTH_LORE": "\"You touch it.\n\"No way, you touch it.\"\n\n-Signal echoes, UES Safe Travels",
 
 		"ITEM_EXTRASTATSONLEVELUP_NAME": "Prayer Beads",
-		"ITEM_EXTRASTATSONLEVELUP_PICKUP": "Item stores experience and gives stats on item removal.",
-		"ITEM_EXTRASTATSONLEVELUP_DESC": "Grows in power by absorbing experience, storing <style=cIsUtility>20%</style> <style=cStack>(+5% per item stack, Linear)</style> of player stats per item level up. On removal, gain all stored stats.",
+		"ITEM_EXTRASTATSONLEVELUP_PICKUP": "Gains experience alongside you. Upon removal, grants bonus stats.",
+		"ITEM_EXTRASTATSONLEVELUP_DESC": "Grows by gaining experience, storing <style=cIsUtility>20%</style> <style=cStack>(+5% per stack, Linear)</style> bonus stats (<style=cIsHealing>health</style>, <style=cIsHealing>regeneration</style>, and <style=cIsDamage>damage</style>). On removal, gain all stored stats.",
 		"ITEM_EXTRASTATSONLEVELUP_LORE": "\"Shipping details\nOrder: --\nEstimated Delivery: --\nShipping method: --\n\nShipping address:\n--\n\nShipping details:\n--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/\n\"That isn\u2019t regulation, Garcia.\" \n\"tHat iSn\u2019t rEguLation, gArCia…\" \n\"…\" \n\"Well that\u2019s what you sound like. Fine, take \u2019em.\" \n\"Just until you finish your make-up marksman-\"\n\"-I shoot fine.\"\n\"Your 24 isn\u2019t gonna cut it in this hellscape. The Vultures run for our convoy spooked him good, the Captain wants 30\u2019s out of all of us this week. Good luck.\"\n\"30\u2019s?? I need a Maple Malt after this…\"\n[40 minutes later]\n\"Unbelievable. Don\u2019t look so smug, I\u2019m sure it was a fluke.\"\n\"C\u2019mon Thompson, a 38? A 38 is no fluke. I\u2019m unstoppable with a rifle.\"\n\"Yeah, yeah. You can have this back now.\"\n\"Keep it, I feel amazing.\"",
+		"EXTRASTATSONLEVELUP_HEALTH_STAT": "+ MAX HEALTH",
+		"EXTRASTATSONLEVELUP_HEALTHREGENERATION_STAT": "+ HEALTH REGENERATION",
+		"EXTRASTATSONLEVELUP_DAMAGE_STAT": "+ DAMAGE",
+		"EXTRASTATSONLEVELUP_ENLIGHTENED": "ENLIGHTENED!",
 
 		"ITEM_METEORATTACKONHIGHDAMAGE_NAME": "Runic Lens",
-		"ITEM_METEORATTACKONHIGHDAMAGE_PICKUP": "On high damage dealt increase the chance for a meteor attack.",
-		"ITEM_METEORATTACKONHIGHDAMAGE_DESC": "<style=cIsUtility>Overspill</style>. <style=cIsUtility>5%</style> chance <style=cStack>(+1% per 100% done on initial hit plus 1% per item stack, Linear)</style> on hit to summon a meteor on the target, dealing <style=cIsDamage>2000%</style> damage <style=cStack>(+50% damage per 100% damage done on initial hit plus +50% damage per item stack, Linear)</style>.",
+		"ITEM_METEORATTACKONHIGHDAMAGE_PICKUP": "Chance to call down a meteor. Damage and chance are increased with higher damage hits.",
+		"ITEM_METEORATTACKONHIGHDAMAGE_DESC": "<style=cIsDamage>3%</style> chance on hit to call a meteor strike, dealing <style=cIsDamage>2000%</style> base damage. Every <style=cIsDamage>100%</style> attack damage dealt increases the activation chance by <style=cIsDamage>3%</style> <style=cStack>(+3% per stack, Linear)</style> and damage by <style=cIsDamage>150%</style> <style=cStack>(+50% per stack, Linear)</style>.",
 		"ITEM_METEORATTACKONHIGHDAMAGE_LORE": "Shipping details\nOrder: \"Insurance Nightmare\"\nEstimated Delivery: 06\/28\/2027\nShipping method: High Priority\n\nSent to:\nMerchants Guild\nMercury\n\nOrder details:\nAppraisal complete.\nFull report and certificate of Kosthenticity attached.\n\nIf its user starts a fight, this wretched thing will certainly finish it.\n\nRecommendations:\n\nDon\u2019t touch the pale yellow runes, ever, for any reason.\nDon\u2019t sleep near it.\nDon\u2019t make eye contact with it.\nDon\u2019t use it indoors.\n\nI\u2019ve included the bill for my roof.\n\n- Kosta of Crumbling Tower",
 
 		"ITEM_ONLEVELUPFREEUNLOCK_NAME": "Longstanding Solitude",
-		"ITEM_ONLEVELUPFREEUNLOCK_PICKUP": "Free purchases on Level Up. <color=#FF7F7F>Gold converts to Experience.</color>",
-		"ITEM_ONLEVELUPFREEUNLOCK_DESC": "<style=cIsUtility>On level up</style> gain a free unlock for the next purchase <style=cStack>(+1 free unlock per item stack, Linear)</style> but <color=#FF7F7F>all gold is converted to experience</style>. Anything that costs gold is increased by 100% <style=cStack>(+100% per item stack, Linear)</style>.",
+		"ITEM_ONLEVELUPFREEUNLOCK_PICKUP": "Free purchases on level up... <color=#FF7F7F>BUT gold converts to experience.</color>",
+		"ITEM_ONLEVELUPFREEUNLOCK_DESC": "<style=cIsUtility>On level up</style> gain a free unlock for the next purchase <style=cStack>(+1 per stack)</style> but all gold is converted to experience. Anything that costs gold is <style=cIsUtility>increased by 50%</style> <style=cStack>(+50% per stack)</style>.",
 		"ITEM_ONLEVELUPFREEUNLOCK_LORE": "Day 1\nThe chilly coin in my pocket hums softly, drawing me off path. A pulsing blue pod is lodged in the earth here, covered in morning frost. Even through gloves, the coin burns colder than ever. I\u2019m terrified and compelled to place the coin on the pod, it snaps open.\nA dark gel oozes out, carrying a round device and tablet to my feet. The device activates and pulls the tablet with it into a hover. A construct? I know I should have shot it down, but I… feel it wants to help me get stronger.\nI touch the construct. Thousands of years push their way into my skull, the mounting pressure makes me howl in a voice I don\u2019t recognize, then nothing.\n---\nA pounding migraine wakes me. Midday. I feel moss under me and shield my eyes against the canopy light. I am closer to RallyPoint, but how? Disfigured beetles lay dead in a radius around me, faces distorted, limbs bent. I vomit. The construct hovers protectively nearby. How did it do this?\nDay 2\nStudying the tablet brings no comfort. I worry about Huang. The isolation grates on me, I\u2019m exhausted, hungry, angry. I finally found a supply chest but the construct absorbed my coin before I could use it. This lowly thing thinks it knows best. I don\u2019t know what came over me but I attacked the construct. It didn\u2019t seem to mind but that only made me feel worse. I am not myself.\nDay 3\nThe full moon\u2019s light makes me itch. It pursues me from it\u2019s dark sea, sluggish and unnerving. I stare into it, nearly falling into it\u2019s gaze. For hours I run terrified in the wrong direction. I cannot face it, not how I am. Under a deep canopy I draw familiar power from the construct. Inky feathers break through the skin of my arms and hands. I black out.\nDay 4\nThat blasted thing isn\u2019t cheap, the construct is obsessed with coin, but I can\u2019t argue with the results. The Lemurians barely put up a fight, obliterated, distracted by their song.\nThe last one drops from my talons.\nThey never should have been here in the first place. Where they are blind, I see the shapes of things and truly know them. I must reach…someone, somewhere. I cannot quite remember.\nIt is day\nRatssratsRATS gther n your shadow brother. Scrub, scrub it clean. Yoo LOom\novr the trees, for me?\nI\u2019m\nontheWAy",
+
+		"BIGFRUIT_NAME": "Golden Fruit",
+
+		"MUSHROOMDRIPS_NAME": "Blessed Culture",
 
 		"SHRINE_COLOSSUS_NAME": "Shrine of Shaping",
 		"SHRINE_COLOSSUS_CONTEXT": "Offer to Shrine of Shaping",
@@ -369,6 +382,8 @@
 		"OBJECTIVE_REBIRTH_OUTRO_SHRINE_1": "Approach the Shrine",
 		"OBJECTIVE_REBIRTH_OUTRO_SHRINE_2": "Be Reborn or Linger",
 		"SHRINE_REBIRTH_POPUP_TEXT": "<b>Meridian's Rebirth</b>\n <i>Offer an item to be Reborn.</i>",
+		"OBJECTIVE_MERIDIAN_REACH_TEMPLE": "Reach the Temple",
+		"OBJECTIVE_MERIDIAN_REACH_ARENA": "Ascend to the Prime Meridian",
 
 		"PORTAL_DESTINATION_HELMINTH": "Teleport to Helminth Hatchery",
 		"PORTAL_DESTINATION_LAKESNIGHT": "Teleport to Viscous Falls",
@@ -376,12 +391,12 @@
 
 		"EQUIPMENT_HEALANDREVIVE_NAME": "Seed of Life",
 		"EQUIPMENT_HEALANDREVIVE_PICKUP": "Revives the user when killed or dead allies on activation. Consumed on use.",
-		"EQUIPMENT_HEALANDREVIVE_DESC": "Revives the user when killed or dead allies on activation. Consumed on use.\n\r<style=cKeywordName>Base Cooldown: 60s</style>",
+		"EQUIPMENT_HEALANDREVIVE_DESC": "<style=cIsHealing>Revive</style> <style=cIsUtility>dead, friendly Survivors</style> upon activation. <style=cIsUtility>Dying</style> while holding this equipment <style=cIsHealing>returns only you to life</style>. <style=cIsHealing>Reviving</style> gives <style=cIsHealing>3s of invulnerability</style> and <style=cIsUtility>consumes</style> the equipment.\n\r<style=cKeywordName>Base Cooldown: 60s</style>",
 		"EQUIPMENT_HEALANDREVIVE_LORE": "Thick evening mist wraps the Queen like a sentient cloak. \"Children, tonight we show these wretched demons our grief. Fight and fall and fight again. Take his [blessing] and go.”\nA stream of Beetles march up the dead tree\u2019s hollow. A Beetle Guard stops to face an alcove and it\u2019s units pause behind him, antennae twitching. The Guard crosses it\u2019s front legs above it\u2019s head, \"Deathless are we.\", it sticks a pronged seed to it\u2019s underbelly.\nOn the surface, Beetles pour from lifeless stumps in neat lines. A thousand forms shrink into the Eastern horizon in a golden thread.",
 
 		"EQUIPMENT_HEALANDREVIVECONSUMED_NAME": "Seed of Life (Consumed)",
 		"EQUIPMENT_HEALANDREVIVECONSUMED_PICKUP": "On activation places a sprout that drops healing orbs.",
-		"EQUIPMENT_HEALANDREVIVECONSUMED_DESC": "On activation places a sprout that drops healing orbs.\n\r<style=cKeywordName>Base Cooldown: 15s</style>",
+		"EQUIPMENT_HEALANDREVIVECONSUMED_DESC": "Plant a sprout at the target location which drops <style=cIsHealing>healing orbs</style> that heals for <style=cIsHealing>2% life</style>.\n\r<style=cKeywordName>Base Cooldown: 15s</style>",
 		"EQUIPMENT_HEALANDREVIVECONSUMED_LORE": "N\/A",
 
 		"EQUIPMENT_QUESTVOLATILEBATTERY_DESC": "A volatile battery that will explode if too much damage is taken.",
@@ -401,7 +416,7 @@
 
 		"UNLOCKABLE_LOG_HALCYONITE": "Monster Log: Halcyonite",
 		"UNLOCKABLE_LOG_FALSESONBOSS": "Monster Log: False Son",
-		"UNLOCKABLE_LOG_SCORCHLING": "Monster Log: Scorch Wurm",
+		"UNLOCKABLE_LOG_SCORCHLING": "Monster Log: Scorch Worm",
 		"UNLOCKABLE_LOG_CHILD": "Monster Log: Child",
 
 		"BAZAAR_SEER_LAKES": "<style=cWorldEvent>You dream of sweet fruits, and bitter promises.</style>",
@@ -409,7 +424,7 @@
 		"BAZAAR_SEER_LEMURIANTEMPLE": "<style=cWorldEvent>You dream of refuge.</style>",
 		"BAZAAR_SEER_HABITAT": "<style=cWorldEvent>You dream of vines, cutting through the sky.</style>",
 		"BAZAAR_SEER_MERIDIAN": "<style=cWorldEvent>You dream of rebirth.</style>",
-		"BAZAAR_SEER_HELMINTH": "<style=cWorldEvent>You dream of wurms.</style>",
+		"BAZAAR_SEER_HELMINTH": "<style=cWorldEvent>You dream of worms.</style>",
 		"BAZAAR_SEER_VILLAGE": "<style=cWorldEvent>You dream of lost poetry.</style>",
 		"BAZAAR_SEER_VILLAGENIGHT": "<style=cWorldEvent>You dream of stabbing shards.</style>",
 		"BAZAAR_SEER_HABITATFALL": "<style=cWorldEvent>You dream of golden leaves.</style>",
@@ -505,12 +520,12 @@
 		"FALSESONBOSS_DRONEDEATH_2": "Paltry crutch.",
 		"FALSESONBOSS_DRONEDEATH_3": "Irritating gnats.",
 
-		"FALSESONBOSS_DEATH_1": "This cannot be... my end.",
-		"FALSESONBOSS_DEATH_2": "EVERYTHING... IS SO LOUD... AND SO QUIET.",
-		"FALSESONBOSS_DEATH_3": "A... GIFT... JUST OUT OF REACH...",
-		"FALSESONBOSS_DEATH_4": "I... FEEL MYSELF... Breaking... again...",
-		"FALSESONBOSS_DEATH_5": "HE IS LAUGHING... STOP LAUGHING AT ME...",
-		"FALSESONBOSS_DEATH_6": "Shackles... locked in golden shackles...",
+		"FALSESONBOSS_DEATH_1": "This cannot be... my end.\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The False Son shatters into dust. <sprite name=\"Skull\" tint=1></size></style>",
+		"FALSESONBOSS_DEATH_2": "EVERYTHING... IS SO LOUD... AND SO QUIET.\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Providence's shadow fades. <sprite name=\"Skull\" tint=1></size></style>",
+		"FALSESONBOSS_DEATH_3": "A... GIFT... JUST OUT OF REACH...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> A false god meets it's end. <sprite name=\"Skull\" tint=1></size></style>",
+		"FALSESONBOSS_DEATH_4": "I... FEEL MYSELF... Breaking... again...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The wind picks up, smelling of electicity. <sprite name=\"Skull\" tint=1></size></style>",
+		"FALSESONBOSS_DEATH_5": "HE IS LAUGHING... STOP LAUGHING AT ME...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> Mithrix chuckles in amusement. <sprite name=\"Skull\" tint=1></size></style>",
+		"FALSESONBOSS_DEATH_6": "Shackles... locked in golden shackles...\n<style=cDeath><size=100%><sprite name=\"Skull\" tint=1> The Aurelionite's chains shudder. <sprite name=\"Skull\" tint=1></size></style>",
 
 		"FALSESONBOSS_LIGHTNING_PLAYERDEATH_1": "Only the storm will remember you.",
 		"FALSESONBOSS_LIGHTNING_PLAYERDEATH_2": "Ashes scattered by lightning and wind.",
@@ -525,11 +540,13 @@
 
 		"EQUIPMENT_AFFIXBEAD_NAME": "His Spiteful Boon",
 		"EQUIPMENT_AFFIXBEAD_PICKUP": "Become an aspect of spite.",
+		"EQUIPMENT_AFFIXBEAD_DESC": "???",
 
 		"EQUIPMENT_AFFIXAURELIONITE_NAME": "Aurelionite's Blessing",
 		"EQUIPMENT_AFFIXAURELIONITE_PICKUP": "Become an aspect of radiance.",
+		"EQUIPMENT_AFFIXAURELIONITE_DESC": "???",
 
-		"SCORCHLING_BODY_NAME": "Scorch Wurm",
+		"SCORCHLING_BODY_NAME": "Scorch Worm",
 		"SCORCHLING_BODY_LORE": "This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life.\nI am joined by my good friend Tharson, who is keeping me safe through this journey.\n---------------------\n\nWe- well, Tharson, tracked the great Magma Worm deep into these cave systems. The tunnels are massive, double our height, nearly a perfect circle, and made of polished glass. Keeping our footing here makes every step feel like 10. The earth rumbles low and constant in the tunnels ahead.\nWe follow the sizzle of glass and earth churning deeper, and we find it. The tunnels give way to a cavernous boiling chamber of magma. The nest for these magnificent creatures. We sweat despite our environment suits best efforts. The worms shy away from us, safely burrowed into their blistering pools. There are structures here, but who built them in these conditions?\nA distant grating noise continues to reach our camp in the night, unnerving me. I wake Tharson to investigate. We find it, at last!\nNearly the size of OMEGA\u2019s Progenitor Leech. Burning, of course.\nI watch in fascination as it crunches effortlessly into thin golden veins of material hidden in the rock. What sense is it using to find this food? Smell? Vibration?\nGlassy gauges littering the area tell me this is a reliable feeding ground.\nWith rations nearly out, I hope for one more sighting of the worm as Tharson packs camp.",
 
 		"CHILD_BODY_NAME": "Child",
