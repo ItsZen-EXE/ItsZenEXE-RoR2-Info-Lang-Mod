@@ -21,7 +21,7 @@
 	"COMMANDO_BODY_NAME" : "Commando",
 	"COMMANDO_BODY_SUBTITLE" : "Cornered Gunslinger",
 	"COMMANDO_PRIMARY_NAME" : "Double Tap",
-	"COMMANDO_PRIMARY_DESCRIPTION" : "Rapidly shoot an enemy for <style=cIsDamage>100% damage</style>. Shoots <style=cIsDamage>6</style> times per second at base attack speed.\n<style=cKeywordName>(Proc: 1)</style>",
+	"COMMANDO_PRIMARY_DESCRIPTION" : "Rapidly shoot an enemy for <style=cIsDamage>100% damage</style>. Shoots <style=cIsDamage>6</style> times per second.\n<style=cKeywordName>(Proc: 1)</style>",
 	"COMMANDO_SECONDARY_NAME" : "Phase Round",
 	"COMMANDO_SECONDARY_DESCRIPTION" : "Fire a <style=cIsDamage>piercing</style> bullet for <style=cIsDamage>300% damage</style>. Deals <style=cIsDamage>+40% TOTAL damage</style> (basically equals <style=cIsDamage>+120% base damage</style>) every time it passes through an enemy.\n<style=cKeywordName>(Proc: 0.5/hit) (Cooldown: 3s)</style>",
 	"COMMANDO_SECONDARY_ALT1_NAME" : "Phase Blast",
