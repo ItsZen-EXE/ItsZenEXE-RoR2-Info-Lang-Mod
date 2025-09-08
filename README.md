@@ -1,13 +1,31 @@
-# ItsZenEXE-Info-mod
+# ItsZen_EXE's Modpack
 
-You can download the files on the [Releases page!](https://github.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/releases)
+This was originally meant to be a more "vanilla" text-only mod for myself initially, but decided to share it publicly due to popular demand! I know I enjoy not needing a wiki page open in the background anymore, and I hope you do too!
 
-On Steam, open the game's properties then under "Local Files" press "Browse..."
+## Contents
 
-Inside of the Risk of Rain 2 folder, drag/drop the "Risk of Rain 2_Data" folder from inside of this zip into the "Risk of Rain 2" folder you should be currently in. Press "Yes" if it asks if you want to replace any files.
+In this modpack you'll find:
 
-The main menu should have a spot indicating that the mod is working now, as well as some info on it! :)
+- <b>Extended/Corrected info on all items and characters, including proc info & more.</b>
+- <b>Various helpful tips, charts, and clarifications.</b>
+- <b>Heavy improvements to the ping system and various other adjustments to the text chat.</b>
 
-To disable the mod, you can simply delete the patch files in the en language folder!
+For more detailed change lists, you can check out the individual mod's pages!
 
-This mod NO LONGER BREAKS every single update! so be patient when an update comes out for more info, or redownload the mod to reinstall it!
+## Screenshots / Examples
+
+[![](https://raw.githubusercontent.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/Pings%20Preview%201.png)]()
+
+[![](https://raw.githubusercontent.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/pings%20and%20ui/shrines-examples.png)]()
+
+[![](https://raw.githubusercontent.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/characters/bandit-loadout-hover.png)]()
+
+[![](https://raw.githubusercontent.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/Focused%20Convergence.png)]()
+
+[![](https://raw.githubusercontent.com/ItsZen-EXE/ItsZenEXE-RoR2-Info-Lang-Mod/refs/heads/main/screenshots/logbook/ingame-logbook-example-equipment.png)]()
+
+## Credits & Contacts
+
+Made originally by hand, but improved substantially using <https://xuerian.github.io/RoR2LanguageEditor/>
+
+Feel 100% free to contact me on Discord [@ItsZen_EXE](https://discord.com/users/142762725838290944) or on bsky at [@itszenexe.bsky.social](https://bsky.app/profile/itszenexe.bsky.social). I'm extremely welcome to feedback!
