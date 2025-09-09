@@ -1,9 +1,9 @@
 {
 	"name": "ItsZenEXEs_ROR2_Modpack",
 	"description": "@ItsZen_EXE's Modpack which edits the UI, Pings, and Logbook descriptions to be more informative and user-friendly.",
-	"version_number": "4.1.6",
+	"version_number": "4.1.7",
 	"dependencies": [
-		"ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.1.6",
+		"ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.1.7",
 		"ItsZenEXE-ItsZenEXEs_Logbook_Extended_Info-4.1.3",
 		"ItsZenEXE-ItsZenEXEs_Characters_Extended_Info-4.1.3",
 

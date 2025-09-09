@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.1.6 (CURRENT PATCH)
+## 4.1.7 (CURRENT PATCH)
+
+- Updated the pings and UI pack to the latest version.
+
+## 4.1.6
 
 - Updated the pings and UI pack to the latest version.
 
