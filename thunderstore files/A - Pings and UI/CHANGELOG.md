@@ -1,11 +1,14 @@
 # Changelog
 
+## 4.1.7
+
+- Removed an inside joke death line. Sorry Nelson.
+
 ## 4.1.6
 
 - Added a missing Bazzar Seer line
 - Added some Simulacrum lines that were missing
 - Removed the Eclipse descriptor page
-- Removed an inside joke death line. Sorry Nelson.
 
 ## 4.1.3
 
