@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.1.5 (CURRENT PATCH)
+## 4.1.6 (CURRENT PATCH)
+
+- Updated the pings and UI pack to the latest version.
+
+## 4.1.5
 
 - Updated dependencies (again) to hopefully ACTUALLY fix the 4.1.3 issue. Sorry about this!
 
