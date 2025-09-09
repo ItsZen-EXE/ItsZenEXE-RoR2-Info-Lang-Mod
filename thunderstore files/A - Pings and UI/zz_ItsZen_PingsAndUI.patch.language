@@ -88,8 +88,6 @@
 		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1> zone!</style> ({0}%)",
 		"PICKUP_LUNAR_COIN": "<style=cIsLunar><sprite name=\"LunarCoin\" tint=1>Lunar Coin</style>",
 		"PICKUP_LUNAR_COIN_DESCRIPTION": "A <style=cIsLunar><sprite name=\"LunarCoin\" tint=1>Lunar Coin</style>. Radiates a mysterious energy. Used as currency.",
-		"PLAYER_DEATH_QUOTE_29": "{0} must have told Nelson...",
-		"PLAYER_DEATH_QUOTE_29_2P": "You told Nelson, didn't you?",
 		"PLAYER_PING_COOLDOWN": "<style=cEvent>You must wait before issuing more pings. Sorry if you're missing them over and over...</style>",
 		"PLAYER_PING_DEFAULT": "<style=cIsHealing>{0} is pointing over there!</style>",
 		"PLAYER_PING_ENEMY": "<style=cIsHealing>{0} wants to attack:</style> <style=cIsHealth>{1}.</style>",
